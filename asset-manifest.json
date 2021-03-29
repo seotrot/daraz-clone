@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/seotrot.github.io/daraz-clone.git/static/css/main.8c760380.chunk.css",
+    "main.js": "/seotrot.github.io/daraz-clone.git/static/js/main.e89bde83.chunk.js",
+    "main.js.map": "/seotrot.github.io/daraz-clone.git/static/js/main.e89bde83.chunk.js.map",
+    "runtime-main.js": "/seotrot.github.io/daraz-clone.git/static/js/runtime-main.596b77bd.js",
+    "runtime-main.js.map": "/seotrot.github.io/daraz-clone.git/static/js/runtime-main.596b77bd.js.map",
+    "static/css/2.9ca7be9a.chunk.css": "/seotrot.github.io/daraz-clone.git/static/css/2.9ca7be9a.chunk.css",
+    "static/js/2.8801d6e5.chunk.js": "/seotrot.github.io/daraz-clone.git/static/js/2.8801d6e5.chunk.js",
+    "static/js/2.8801d6e5.chunk.js.map": "/seotrot.github.io/daraz-clone.git/static/js/2.8801d6e5.chunk.js.map",
+    "static/js/3.2961fe3b.chunk.js": "/seotrot.github.io/daraz-clone.git/static/js/3.2961fe3b.chunk.js",
+    "static/js/3.2961fe3b.chunk.js.map": "/seotrot.github.io/daraz-clone.git/static/js/3.2961fe3b.chunk.js.map",
+    "index.html": "/seotrot.github.io/daraz-clone.git/index.html",
+    "static/css/2.9ca7be9a.chunk.css.map": "/seotrot.github.io/daraz-clone.git/static/css/2.9ca7be9a.chunk.css.map",
+    "static/css/main.8c760380.chunk.css.map": "/seotrot.github.io/daraz-clone.git/static/css/main.8c760380.chunk.css.map",
+    "static/js/2.8801d6e5.chunk.js.LICENSE.txt": "/seotrot.github.io/daraz-clone.git/static/js/2.8801d6e5.chunk.js.LICENSE.txt",
+    "static/media/slick-theme.css": "/seotrot.github.io/daraz-clone.git/static/media/slick.c94f7671.ttf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.596b77bd.js",
+    "static/css/2.9ca7be9a.chunk.css",
+    "static/js/2.8801d6e5.chunk.js",
+    "static/css/main.8c760380.chunk.css",
+    "static/js/main.e89bde83.chunk.js"
+  ]
+}
